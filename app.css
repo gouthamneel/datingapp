@@ -1,0 +1,30 @@
+body{
+	background: url(https://developer-uploaded-assets.s3.amazonaws.com/apptributes/us-east-1%3Acb0034e4-ce05-4334-991d-257b7d907454/1482598361597_best_dating_apps_7419.jpg);
+    background-size: cover;
+	background-position: center;
+	font-family: lato;
+	color: white;
+}
+
+html{
+	height: 100%;
+}
+
+#content{
+	text-align: center;
+	padding: 25%;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+	             0px 8px 13px rgba(0,0,0,0.1),
+	             0px 18px 23px rgba(0,0,0,0.1);
+}
+
+h1{
+	font-weight: 900;
+	font-size: 5em;
+}
+
+hr{
+	width: 400px;
+	border-top: 1px solid #f8f8f8;
+	border-bottom: 1px solid rgba(0,0,0,0.2)
+}
